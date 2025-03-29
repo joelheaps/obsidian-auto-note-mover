@@ -1,4 +1,5 @@
 # Auto Note Mover
+Fork that adds "move all" command.
 
 Auto Note Mover will automatically move the active notes to their respective folders according to the rules.
 
